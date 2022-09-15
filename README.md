@@ -1,1 +1,1 @@
-# gb-databases
+geek brains databases lectures
